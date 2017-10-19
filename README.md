@@ -3,6 +3,6 @@ Hue Stacker is a small game developed in GameMaker Studio and, of course, script
 
 The game is played by selecting one of two difficulties, and then matching hues on the board by selecting a direction to move the cards.
 
-###A Sample Screenshot
+### A Sample Screenshot
 
 ![alt text](https://i.imgur.com/Tc39BAl.png "A screenshot from the game, multiple colors are displayed.")
